@@ -1,5 +1,6 @@
 script name : imageText.py
-imageText.py will extract text from a given image
+
+imageText.py will extract text from a given image.
 The text will be saved in the file specified by user
 
 
