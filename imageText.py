@@ -3,6 +3,10 @@ from PIL import Image
 import pytesseract 
 import os
 import sys
+import readline
+#the readline is used to set path completion by hitting tab
+readline.set_completer_delims(' \t\n=')
+readline.parse_and_bind("tab: complete")
 #we are going ti extract text from an image and write the text to a file
 
 #ask the user for the name of the file to write the text
