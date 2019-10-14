@@ -5,11 +5,11 @@
 
 
 <h4>To run the program:</h4>
-<b>make sure all the modules are installed on your system
+<pre><b>make sure all the modules are installed on your system
 To install a module use pip3 install <module name>
 The script should be run on python3 and on a unix based system
 on the Terminal do the following
-  python3 imageText.py </b>
+  python3 imageText.py </b></pre>
 
 "The system will then guide you,Enter the filename to save the text
 and also specify the path to the image"
