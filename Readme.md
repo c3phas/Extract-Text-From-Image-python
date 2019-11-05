@@ -32,6 +32,8 @@ The text will be saved in the file specified by user</p>
 
 <p>"The system will then guide you,Enter the filename to save the text
 and also specify the path to the image"</p>
+<p>"The system will then guide you,Enter the filename to save the text
+and also specify the path to the image"</p>
 <h4>To run the program:</h4>
 <pre><b>make sure all the modules are installed on your system
 To install a module use pip3 install <module name>
