@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 <h3>script name</h3> 
 <p>imageText.py</p>
 
 <h3>Description</h3>
 <p>imageText.py will extract text from a given image.<br>
 The text will be saved in the file specified by user</p>
+=======
+<h3>script name : imageText.py</h3>
+
+<p>imageText.py will extract text from a given image.</p>
+<p>The text will be saved in the file specified by user</p>
+>>>>>>> 50e6d1f81187cea1859948daa6eba68ac9ce8ccd
 
 <h3>Installation</h3>
 <p>we are going to need several modules to run this example</p>
@@ -26,7 +33,19 @@ The text will be saved in the file specified by user</p>
 <p>on the Terminal do the following</p>
 <i>python3 imageText.py </i>
 
+<<<<<<< HEAD
 <p>"The system will then guide you,Enter the filename to save the text
 and also specify the path to the image"</p>
+=======
+<h4>To run the program:</h4>
+<pre><b>make sure all the modules are installed on your system
+To install a module use pip3 install <module name>
+The script should be run on python3 and on a unix based system
+on the Terminal do the following
+  python3 imageText.py </b></pre>
+
+"The system will then guide you,Enter the filename to save the text
+and also specify the path to the image"
+>>>>>>> 50e6d1f81187cea1859948daa6eba68ac9ce8ccd
 
 
